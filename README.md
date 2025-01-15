@@ -31,7 +31,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/zVyMxgl-Xhk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![CodePath WEB102 Pre-work Video Walkthrough](https://i.ytimg.com/vi/zVyMxgl-Xhk/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHGBoAC4AOKAgwIABABGFIgWyhlMA8=&amp)](https://www.youtube.com/watch?v=zVyMxgl-Xhk)
 
 <!-- <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /> -->
 
