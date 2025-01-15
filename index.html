@@ -7,6 +7,14 @@
   </head>
 
   <body>
+    <!-- Nav bar -->
+    <nav>
+        <ul>
+            <li><a href="#our-game-section">Our Game</a></li>
+            <!-- Add other nav items here -->
+        </ul>
+    </nav>
+
     <!-- header row with logo -->
     <div class="header">
         <img id="tentacles" src="assets/tentacles.png">
@@ -48,16 +56,25 @@
     </div>
 
     <!-- list of games funded by Sea Monster -->
-    <h2>Our Games</h2>
-    <p>Check out each of our games below!</p>
-    <div id="button-container">
-        <button id="unfunded-btn">Show Unfunded Only</button>
-        <button id="funded-btn">Show Funded Only</button>
-        <button id="all-btn">Show All Games</button>
-    </div>
-    <div id="games-container">
+    <section id="our-game-section">
+        <h2>Our Games</h2>
+        <p>Check out each of our games below!</p>
+        <div>
+            <input type="text" id="search-input" placeholder="Search for a game">
+            <button id="search-button">Search</button>
+        </div>
+        <div id="search-results">
 
-    </div>
+        </div>
+        <div id="button-container">
+            <button id="unfunded-btn">Show Unfunded Only</button>
+            <button id="funded-btn">Show Funded Only</button>
+            <button id="all-btn">Show All Games</button>
+        </div>
+        <div id="games-container">
+
+        </div>
+    </section>
 
     <script type="module" src="index.js"></script>
   </body>
